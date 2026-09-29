@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeinab61.github.io/zeinabgis/sitemap.xml
